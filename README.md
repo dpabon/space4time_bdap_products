@@ -11,6 +11,9 @@ Source code repository for the data product: 10.5281/zenodo.14627718
 
 ## How to use:
 
+- Create a new Julia project using the Manifest.toml and Project.toml files.
+- Follow the steps for the product generation are covered in the space4time_geostationary.jl file
+
 ## Acknowledgement:
 
 The Open-Earth-Monitor Cyberinfrastructure project has received funding from the European Unions Horizon Europe research and innovation programme under grant agreement No. 101059548.
